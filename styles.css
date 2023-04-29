@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    background-color: yellow;
+}
+table,
+td, th{
+     border: 3px solid black;
+    border-collapse:collapse;
+    background-color: blueviolet;
+}
+td{
+  background-color: blue;
+}
+.img-Japan{
+     width: 200px;
+    
+}
+.vid-field{
+    width: 400px;
+}
+
+
+
